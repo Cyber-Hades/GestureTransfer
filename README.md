@@ -23,8 +23,7 @@ Built with **Python, OpenCV, Mediapipe, and Sockets**, it demonstrates how gestu
 - ✋ Transfer triggered by gestures (no clicks needed)  
 - 📡 Real-time file/message transfer across LAN  
 - 🔒 Configurable IP & Port (works on any local device)  
-- 💻 Cross-platform prototype (Windows/Linux tested)  
-- ⚡ Lightweight, no internet required  
+- 💻 Cross-platform prototype (Windows/Linux tested)    
 
 ---
 
@@ -34,8 +33,8 @@ Built with **Python, OpenCV, Mediapipe, and Sockets**, it demonstrates how gestu
 ```bash
 git clone https://github.com/Cyber-Hades/GestureTransfer
 cd GestureTransfer
----
 ```
+---
 
 ### 2️⃣ Configure IP & Port
 ```bash
